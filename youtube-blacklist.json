@@ -304,5 +304,17 @@
         "type": "channel",
         "name": "VIỆT NAM CỘNG HÒA",
         "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
-    }
+    },
+    {
+        "youtubeid": "UCdioDuMh5_afhGJTAkbQjdQ"
+        "type": "channel"
+        "name": "VietCatholicNews"
+        "org": "Tổ chức hồi giáo tự xưng IS tại VN"
+     },
+     {
+        "youtubeid": "UCHPzpxcYhxkb0fMJKeSe66g"
+        "type": "channel"
+        "name": "Thế Giới Nghiêng"
+        "org": "Việt Tân (Nghi ngờ)"
+     }
 ]
